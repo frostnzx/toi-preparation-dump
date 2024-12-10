@@ -1,5 +1,12 @@
 # toi-preparation-dump
-<b> Made by : Fnzx </b> <br/>
-These codes contain my intuitive explaination of my own understanding about the solution.
-<br/>
-***Some problem still left unsolved***
+
+---
+
+## About the Repository
+  These codes reflect my personal understanding and intuitive explanations of the solutions. Some problems remain unsolved.
+
+## Graders
+- https://programming.in.th/
+- https://cses.fi/
+- https://atcoder.jp/
+  
